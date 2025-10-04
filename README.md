@@ -1,0 +1,2 @@
+# Facial-Emotion-Recognition-and-Object-Detection-under-Low-Light-Conditions-using-Deep-Learning
+Facial Emotion Recognition and Object Detection are vital AI applications but often fail under low-light conditions common in surveillance and real-world use. This project proposes a framework combining enhancement techniques and deep learning models to improve robustness, accuracy, and reliability in such scenarios.
